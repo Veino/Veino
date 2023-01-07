@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Veino
-- 👀 I’m interested in recommender systems, system builds, web dev and cyber security
-- 🌱 I’m currently learning python, django, and data science.
-- 💞️ I’m looking to collaborate on a great system build project.
+- 👋 Hi, I’m @Pwaveino Clarkson
+- 👀 I’m interested in Ecommerce, Entrepreneurship, Healthcare and cyber security
+- 🌱 I’m python developer, Django is my strongest skill.
+- 💞️ I’m looking to collaborate on a great projects.
 - 📫 How to reach me 09072712953 whatsApp or telegram.
 
 <!---
