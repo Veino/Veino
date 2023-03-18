@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Pwaveino Clarkson
 - 👀 I’m interested in Ecommerce, Entrepreneurship, Healthcare and cyber security
-- 🌱 I’m a python developer, Django is my strongest skill.
+- 🌱 I’m a Designer & Python developer, Django is my strongest skill.
 - 💞️ I’m looking to collaborate on great projects.
 - 📫 How to reach me 09072712953 whatsApp or telegram.
 
