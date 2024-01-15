@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Pwaveino Clarkson
+- **#👋 Hi, I’m Pwaveino Clarkson**
 - 👀 I’m interested in Ecommerce, Entrepreneurship, Healthcare and cyber security
 - 🌱 I’m a Designer & Python developer, Django is my strongest skill.
 - 💞️ I’m looking to collaborate on great projects.
